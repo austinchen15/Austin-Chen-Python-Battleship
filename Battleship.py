@@ -1,7 +1,7 @@
 #
 # Battleship
 #
-# Austin Chen & Daniel Finer
+# Austin Chen
 #
 # This module contains the code for the Human player board and the landing screen.
 #
